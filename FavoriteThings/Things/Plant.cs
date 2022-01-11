@@ -12,7 +12,7 @@ namespace FavoriteThings.Things
         {
             Type = type;
             Spacing = spacing;
-            Season = season;
+            Season = season;//added a comment
             Height = height;
         }
 
